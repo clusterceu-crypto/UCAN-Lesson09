@@ -152,3 +152,13 @@ CODEX: NOT USED
 
 Next controlled action after successful persistence/handoff only:
 Lesson 09 — Partner Review Deployment Authorization
+
+GENK LEARNER-FACING LINK HOTFIX — v1.1.3
+Predecessor: UCAN_Lesson_09_HTML_Preview_v1.1.2_PartnerReview_PreRelease
+Successor: UCAN_Lesson_09_HTML_Preview_v1.1.3_PartnerReview_PreRelease
+Authorized learner-facing navigation change only:
+- PRIMARY ACCESSIBLE CASE PAGE: Oppla — Stiemer Vallei, Genk — https://oppla.eu/case-study/stiemer-vallei-genk
+- SUPPORTING CASE SOURCE PRESERVED: Connecting Nature — Genk / Stiemervallei — https://connectingnature.oppla.eu/casestudy/24480
+No Genk factual wording change. No Glasgow/resource/video/Portfolio/AI/assessment/Completion change.
+CSS, JavaScript and approved PNG are byte-preserved from v1.1.2.
+
