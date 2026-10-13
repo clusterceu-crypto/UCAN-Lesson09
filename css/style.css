@@ -366,3 +366,8 @@ fieldset input { margin-top: .32em; flex: 0 0 auto; }
   .mental-model-figure figcaption { font-size:.9rem; }
   .case-card,.challenge-card,.synthesis-card,.video-card,.portfolio-synthesis,.completion-card,.first-local-step { padding:1rem; border-radius:14px; }
 }
+
+/* UCAN-L09 Socratic mentor: separate card following the lesson's own green palette */
+.socratic-support{margin:24px 0;border:1px solid var(--border);border-left:5px solid var(--accent);border-radius:var(--radius);background:var(--accent-soft);padding:clamp(18px,3vw,26px);box-shadow:none}
+.socratic-support h2{margin-top:0}
+.socratic-support .privacy-note{margin-bottom:0}
